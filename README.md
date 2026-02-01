@@ -95,7 +95,7 @@
 </div>
 
 <!-- ██████████████████████████████████████████████████████████████████ -->
-<!--                   TECH STACK — SKILL ICONS                        -->
+<!--                   TECH STACK — 3 COLUMN LAYOUT                    -->
 <!-- ██████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
@@ -106,14 +106,22 @@
 
 <div align="center">
 
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" alt="Frontend Stack" />
-
-### ⚙️ Backend & Tools
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman&theme=dark" alt="Backend Stack" />
-
-### 🛠️ Developer Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm&theme=dark" alt="Dev Tools" />
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🎨 Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" alt="Frontend Stack" />
+    </td>
+    <td align="center" width="33%">
+      <h3>⚙️ Backend & Tools</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman&theme=dark" alt="Backend Stack" />
+    </td>
+    <td align="center" width="33%">
+      <h3>🛠️ Developer Tools</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm&theme=dark" alt="Dev Tools" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -139,7 +147,7 @@
 </div>
 
 <!-- ██████████████████████████████████████████████████████████████████ -->
-<!--              GITHUB ACTIVITY - 2 COLUMN LAYOUT (CLEAN)            -->
+<!--              GITHUB ACTIVITY - 2 COLUMN LAYOUT                    -->
 <!-- ██████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
