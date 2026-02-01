@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://git-profile-readme-banner.vercel.app/api/javascript?username=7xAI&txt=Web+Developer+%7C+Building+the+Future&bg=darkslategray&fill=white" width="100%" alt="Hex_404 Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hex_404&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Web%20Developer%20|%20Building%20the%20Future&descAlignY=51&descAlign=50" width="100%" alt="Header" />
 
 </div>
 
@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=58A6FF&background=00000000&center=true&vCenter=true&repeat=true&width=600&lines=Hey+there!+I%27m+Hex_404+👋;I+craft+clean+%26+modern+web+experiences;Frontend+Developer+%7C+UI+Builder+%7C+Problem+Solver;React+%7C+Node.js+%7C+JavaScript+—+Let%27s+build+something!" alt="Typing Animation" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&lines=Hey+there!+I'm+Hex_404+👋;I+craft+clean+%26+modern+web+experiences;Frontend+Developer+%7C+UI+Builder+%7C+Problem+Solver;React+%7C+Node.js+%7C+JavaScript)](https://git.io/typing-svg)
 
 </div>
 
@@ -44,22 +44,24 @@
   <a href="https://github.com/7xAI" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://linkedin.com/in/sevenxai" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://twitter.com/sevenxai" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://sevenxai.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-e11d48?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:your-email@email.com" target="_blank">
+  <a href="mailto:contact@sevenxai.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 <!-- Visitor Badge -->
-<img src="https://img.shields.io/badge/dynamic/json?color=58a6ff&style=flat-square&label=Profile+Views&query=.viewers&url=https%3A%2F%2Ftracking.falsepredicate.com%2Fapi%2Fviews%3Fgithub%3D7xAI&labelColor=0d1117" alt="Profile Views" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=7xAI&color=58a6ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
 
 </div>
 
@@ -67,7 +69,7 @@
 <!--                  WAVE DIVIDER                                     -->
 <!-- ██████████████████████████████████████████████████████████████████ -->
 
-<img src="https://raw.githubusercontent.com/nicolo-ribaudo/chalkboard-demo/master/media/chalk-wave.gif" alt="divider" width="100%" height="0" style="max-height:3px;" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
 
 <!-- ██████████████████████████████████████████████████████████████████ -->
 <!--                     ABOUT ME                                      -->
@@ -108,7 +110,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" alt="Frontend Stack" />
 
 ### ⚙️ Backend & Tools
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,restapi,postman&theme=dark" alt="Backend Stack" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman&theme=dark" alt="Backend Stack" />
 
 ### 🛠️ Developer Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm&theme=dark" alt="Dev Tools" />
@@ -132,7 +134,6 @@
 <img src="https://img.shields.io/badge/VS+Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E32?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-<img src="https://img.shields.io/badge/REST+APIs-0075ca?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6334?style=for-the-badge&logo=postman&logoColor=white" />
 
 </div>
@@ -149,31 +150,38 @@
 
 <div align="center">
 
-<!-- Stats Card + Top Languages Side by Side -->
-<img src="https://github-readme-stats.vercel.app/api?username=7xAI&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&card_width=400&include_all_commits=true&count_private=true" alt="Hex_404 GitHub Stats" align="center" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7xAI&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&card_width=300&langs_count=8" alt="Top Languages" align="center" />
+<!-- GitHub Stats -->
+<a href="https://github.com/7xAI">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=7xAI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7xAI&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+</a>
 
 </div>
 
 <div align="center">
 
 <!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=7xAI&theme=github-dark-contrast&hide_border=true&stroke=0d1117&background=0d1117&sideLabels=c9d1d9&dates=58a6ff&currStreak=58a6ff&nextStreak=58a6ff&sideNums=c9d1d9&card_width=600" alt="GitHub Streak" />
+<a href="https://github.com/7xAI">
+  <img src="https://streak-stats.demolab.com?user=7xAI&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=58A6FF&dates=58A6FF&sideLabels=C9D1D9" alt="GitHub Streak" />
+</a>
 
 </div>
 
 <div align="center">
 
-<!-- GitHub Activity Graph -->
-<img src="https://github-readme-activity-graph.appspot.com/graph?username=7xAI&theme=github-dark&hide_border=true&bg_color=0d1117&line=58a6ff&point=58a6ff&color=c9d1d9&area=true" alt="Activity Graph" width="100%" />
+<!-- Activity Graph -->
+<a href="https://github.com/7xAI">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=7xAI&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+</a>
 
 </div>
 
 <div align="center">
 
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=7xAI&theme=github_dark&hide_border=true&no_frame=true&row=1&column=7&card_width=100" alt="Trophies" />
+<!-- Trophies -->
+<a href="https://github.com/7xAI">
+  <img src="https://github-profile-trophy.vercel.app/?username=7xAI&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies"/>
+</a>
 
 </div>
 
@@ -183,13 +191,13 @@
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/projects.gif" height="24" width="24" /> Projects
+## <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/projects.gif" height="24" width="24" /> Featured Projects
 
 </div>
 
 <div align="center">
 
-> 📌 *Pin your top repos on GitHub — or replace the table below with your real projects!*
+> 📌 *Pin your top repos on GitHub profile to showcase them here!*
 
 | # | 🚀 Project | 📝 Description | 🛠 Stack | 🔗 |
 |:---:|:---|:---|:---|:---:|
@@ -200,14 +208,12 @@
 </div>
 
 <!-- ██████████████████████████████████████████████████████████████████ -->
-<!--          SNAKE CONTRIBUTION GRAPH (Setup Instructions)           -->
+<!--          SNAKE CONTRIBUTION GRAPH                                 -->
 <!-- ██████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
 ## 🐍 Contribution Snake
-
-> *Once you set up the GitHub Action below, replace this block with your live snake SVG.*
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7xAI/7xAI/output/github-contribution-grid-snake-dark.svg" />
@@ -229,16 +235,16 @@
   <a href="https://github.com/7xAI">
     <img src="https://img.shields.io/badge/GitHub-Follow+Me-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=333" alt="GitHub" />
   </a>
-  <a href="#">
+  <a href="https://linkedin.com/in/sevenxai">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=333" alt="LinkedIn" />
   </a>
-  <a href="#">
+  <a href="https://twitter.com/sevenxai">
     <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=333" alt="Twitter" />
   </a>
-  <a href="#">
+  <a href="https://sevenxai.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-e11d48?style=for-the-badge&logo=vercel&logoColor=white&labelColor=333" alt="Portfolio" />
   </a>
-  <a href="mailto:your-email@email.com">
+  <a href="mailto:contact@sevenxai.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=333" alt="Email" />
   </a>
 </p>
@@ -251,7 +257,7 @@
 
 <div align="center">
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/Coding.gif" height="150" width="200" alt="Coding GIF" />
 
@@ -261,6 +267,6 @@
 
 <br/>
 
-<sub>⭐ If you like this README template, feel free to star and fork!</sub>
+<sub>⭐ If you like this README, feel free to star and fork!</sub>
 
 </div>
