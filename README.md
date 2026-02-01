@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img src="https://github.com/Hex-404.png" width="180" height="180" style="border-radius: 50%; border: 4px solid #88C0D0; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" alt="HEX_404" />
+<img src="https://static.vecteezy.com/system/resources/thumbnails/024/405/934/small/icon-tech-error-404-icon-isolated-png.png" width="180" height="180" style="border-radius: 50%; border: 4px solid #88C0D0; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" alt="HEX_404" />
 
 <h2>💼 Hex_404 | System Administrator</h2>
 
