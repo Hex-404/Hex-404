@@ -172,7 +172,7 @@
 ---
 
 <!-- ██████████████████████████████████████████████████████████████████ -->
-<!--                    GITHUB ANALYTICS                               -->
+<!--                    GITHUB ANALYTICS (FIXED)                       -->
 <!-- ██████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
@@ -183,28 +183,30 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=7xAI&show_icons=true&theme=nord&hide_border=true&bg_color=ECEFF4&title_color=2E3440&text_color=3B4252&icon_color=88C0D0&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=7xAI&layout=compact&langs_count=8&theme=nord&hide_border=true&bg_color=ECEFF4&title_color=2E3440&text_color=3B4252" alt="Top Languages" width="100%"/>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/7xAI">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=7xAI&show_icons=true&theme=nord&hide_border=false&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7xAI&layout=compact&langs_count=8&theme=nord&hide_border=false" />
+</a>
 
 </div>
 
+<br>
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=7xAI&theme=nord&hide_border=true&background=ECEFF4&stroke=3B4252&ring=88C0D0&fire=BF616A&currStreakLabel=2E3440&sideNums=2E3440&currStreakNum=88C0D0&dates=5E81AC&sideLabels=2E3440" alt="GitHub Streak" width="60%"/>
+<a href="https://github.com/7xAI">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=7xAI&theme=nord&hide_border=false" alt="GitHub Streak" />
+</a>
 
 </div>
 
+<br>
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=7xAI&bg_color=ECEFF4&color=2E3440&line=88C0D0&point=5E81AC&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
+<a href="https://github.com/7xAI">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=7xAI&bg_color=ECEFF4&color=2E3440&line=88C0D0&point=5E81AC&area=true&hide_border=false" alt="Contribution Graph" width="100%"/>
+</a>
 
 </div>
 
